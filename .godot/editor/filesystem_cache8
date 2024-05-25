@@ -1,3 +1,20 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1716580564
+::res://::1716580863
 icon.svg::CompressedTexture2D::8516117048655266664::1716580549::1716580566::1::::<><>::
+interface.gd::GDScript::-1::1716580706::0::1::::<>Control<>::
+interface.tscn::PackedScene::236884068313732828::1716580706::0::1::::<><>::res://interface.gd
+::res://Input/::1716580865
+MO-MT-MSI-V2-2024-05-23-16_43.csv::Translation::7895515518388141805::1716580838::1716580872::1::::<><>::
+MO-MT-MSI-V2-2024-05-23-16_43.MO #.translation::OptimizedTranslation::5181475430678935953::1716580872::0::1::::<><>::
+MO-MT-MSI-V2-2024-05-23-16_43.MO deadline.translation::OptimizedTranslation::1260968716618122795::1716580872::0::1::::<><>::
+MO-MT-MSI-V2-2024-05-23-16_43.Del. deadline.translation::OptimizedTranslation::6244096966240530865::1716580872::0::1::::<><>::
+MO-MT-MSI-V2-2024-05-23-16_43.Product.translation::OptimizedTranslation::4500702073232285176::1716580872::0::1::::<><>::
+MO-MT-MSI-V2-2024-05-23-16_43.SKU.translation::OptimizedTranslation::5911883881131306278::1716580872::0::1::::<><>::
+MO-MT-MSI-V2-2024-05-23-16_43.Planned quantity.translation::OptimizedTranslation::4805329734751745805::1716580872::0::1::::<><>::
+MO-MT-MSI-V2-2024-05-23-16_43.Actual quantity.translation::OptimizedTranslation::3023954221349154396::1716580872::0::1::::<><>::
+MO-MT-MSI-V2-2024-05-23-16_43.Unit of measure.translation::OptimizedTranslation::3760099907405295341::1716580872::0::1::::<><>::
+MO-MT-MSI-V2-2024-05-23-16_43.Operation.translation::OptimizedTranslation::413218588629096657::1716580872::0::1::::<><>::
+MO-MT-MSI-V2-2024-05-23-16_43.Planned time.translation::OptimizedTranslation::7920999737535059173::1716580872::0::1::::<><>::
+MO-MT-MSI-V2-2024-05-23-16_43.Actual time.translation::OptimizedTranslation::2965027002212443885::1716580872::0::1::::<><>::
+MO-MT-MSI-V2-2024-05-23-16_43.Completed at.translation::OptimizedTranslation::8099089469695750888::1716580872::0::1::::<><>::
+MO-MT-MSI-V2-2024-05-23-16_43.Status.translation::OptimizedTranslation::2689950576188767459::1716580872::0::1::::<><>::

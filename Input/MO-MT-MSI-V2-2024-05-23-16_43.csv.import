@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://dkqv8tathifu8"
+
+[deps]
+
+files=["res://Input/MO-MT-MSI-V2-2024-05-23-16_43.MO #.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.MO deadline.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.Del. deadline.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.Product.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.SKU.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.Planned quantity.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.Actual quantity.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.Unit of measure.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.Operation.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.Planned time.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.Actual time.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.Completed at.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.Status.translation"]
+
+source_file="res://Input/MO-MT-MSI-V2-2024-05-23-16_43.csv"
+dest_files=["res://Input/MO-MT-MSI-V2-2024-05-23-16_43.MO #.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.MO deadline.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.Del. deadline.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.Product.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.SKU.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.Planned quantity.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.Actual quantity.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.Unit of measure.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.Operation.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.Planned time.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.Actual time.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.Completed at.translation", "res://Input/MO-MT-MSI-V2-2024-05-23-16_43.Status.translation"]
+
+[params]
+
+compress=true
+delimiter=0
